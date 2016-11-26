@@ -1,4 +1,4 @@
-# electron-quick-start
+# electron-quick-introduce
 
 **Clone and run for a quick way to see Electron in action.**
 
@@ -14,7 +14,7 @@ A basic Electron application needs just these files:
 
 You can learn more about each of these components within the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start).
 
-## To Use
+## To Use CanvasClock-Desktop-App-Electron
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
